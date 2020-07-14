@@ -1,0 +1,6 @@
+{
+"type":"bar", 
+"data": {
+    "labels":["Em aberto","Fechadas"],
+    "datasets":[{"label":"Número de encomendas", "data":[1,4]}]}, 
+"title": "Encomendas por estado"}

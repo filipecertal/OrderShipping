@@ -1,0 +1,6 @@
+{
+"type":"bar", 
+"data": {
+    "labels":[, "John Doe"],
+    "datasets":[{"label":"Número de encomendas", "data":[, 1]}]}, 
+"title": "Encomendas por cliente"}
